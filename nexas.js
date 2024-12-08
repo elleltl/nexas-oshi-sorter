@@ -1,8 +1,14 @@
-var metadata = {
+﻿var metadata = {
+  "Aisha Ushimaru": {
+    image: "img/aisha.png",
+  },
   "Alvyn Asher": {
     image: "img/alvyn.png",
   },
-  "Aurix Rixxy Brightful": {
+  "Asa Mitsuki": {
+    image: "img/asa.png",
+  },
+  "Aurix ‘Rixxy’ Brightful": {
     image: "img/rixxy.png",
   },
   "Bakurah Noir": {
@@ -32,8 +38,17 @@ var metadata = {
   "Faelie Fallwood": {
     image: "img/faelie.png",
   },
+  "Godric Hellion": {
+    image: "img/godric.png",
+  },
   "Hikari Kogane": {
     image: "img/hikari.png",
+  },
+  "Himitsu Haruki": {
+    image: "img/haru.png",
+  },
+  "Imase Annoki": {
+    image: "img/imase.png",
   },
   "Izuya Kagamiya": {
     image: "img/izuya.png",
@@ -47,11 +62,17 @@ var metadata = {
   "Kiko Hayashi": {
     image: "img/kiko.png",
   },
+  "Konomi Nekonishi": {
+    image: "img/konomi.png",
+  },
   "Kougami Harue": {
     image: "img/harue.png",
   },
   "Kyohei Tekma": {
     image: "img/kyohei.png",
+  },
+  "Kyoka Docere": {
+    image: "img/kyoka.png",
   },
   "Leobel Purson": {
     image: "img/leobel.png",
@@ -64,6 +85,9 @@ var metadata = {
   },
   "Manon Merope": {
     image: "img/manon.png",
+  },
+  "Mayo Sozoic": {
+    image: "img/mayo.png",
   },
   "Melody Cordelia": {
     image: "img/melody.png",
@@ -80,11 +104,17 @@ var metadata = {
   "Momoko Nuihara": {
     image: "img/momo.png",
   },
+  "Nagi Ishidori": {
+    image: "img/nagi.png",
+  },
   "Nano Gurē": {
     image: "img/nano.png",
   },
   Nell: {
     image: "img/nell.png",
+  },
+  "Nemuka Bels": {
+    image: "img/nemu.png",
   },
   "Noah Marcellios": {
     image: "img/noah.png",
@@ -104,6 +134,9 @@ var metadata = {
   "Osian W.D. Whitlock": {
     image: "img/osian.png",
   },
+  "Peregrine Gumy": {
+    image: "img/perry.png",
+  },
   "Perseus Mavros": {
     image: "img/percy.png",
   },
@@ -115,6 +148,9 @@ var metadata = {
   },
   "Pyon Phelix": {
     image: "img/phelix.png",
+  },
+  "Pyxi Pop": {
+    image: "img/pyxi.png",
   },
   Reverie: {
     image: "img/reverie.png",
@@ -131,11 +167,20 @@ var metadata = {
   "Ruri Tinytale": {
     image: "img/ruri.png",
   },
+  "Seraphina Seadrake": {
+    image: "img/sera.png",
+  },
+  "Shiori Tamayomi": {
+    image: "img/shiori.png",
+  },
   "Silas Ain": {
     image: "img/silas.png",
   },
   "Soma Fujimori": {
     image: "img/soma.png",
+  },
+  "Stevie McSloff": {
+    image: "img/stevie.png",
   },
   "Sweet E. Hiroshi": {
     image: "img/sweet.png",
@@ -151,5 +196,8 @@ var metadata = {
   },
   "Yukiko Yasashi": {
     image: "img/yuki.png",
+  },
+  "Yuri Yaneva": {
+    image: "img/yuri.png",
   },
 };
